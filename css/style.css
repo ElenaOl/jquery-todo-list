@@ -1,0 +1,45 @@
+body {
+  background: #d5e8c5;
+  margin: 0 auto;
+}
+h1 {
+text-align: center;
+color: #800000;
+}
+
+#container {
+
+  text-align: left;
+}
+.inner-container {
+ display: inline-block;
+
+
+}
+.input {
+  position: absolute;
+  text-align: center;
+  margin-left: 490px;
+  }
+  .list{
+    position: absolute;
+  }
+li{
+  color: #3a7545;
+  font-size: 20px;
+}
+
+.delete{
+  color: red;
+  background: blue;
+}
+#add-button{
+  padding: 10px 30px;
+  color: blue;
+  background: yellow;
+  border-color: blue;
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+
